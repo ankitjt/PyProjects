@@ -4,5 +4,5 @@
 
 ***
 
-1. A blog app 
-     > An blog made using ***Flask framework***, ***Bootstrap*** and ***SQLite***
+## 1. A blog app 
+     > An blog made using ***Flask (Python Framework)***, ***Bootstrap (CSS Framework)*** and ***SQLite (Database)***
