@@ -6,4 +6,4 @@
 
 ## 1. A blog app
 
-A blog app made using ***Flask (Python Framework)*** , ***Bootstrap (CSS Framework)*** and SQLite.
+A blog app made using ***Flask (Python Framework)*** , ***Bootstrap (CSS Framework)*** and ***SQLite***.
